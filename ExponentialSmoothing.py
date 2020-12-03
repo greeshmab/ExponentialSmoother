@@ -1,13 +1,11 @@
-##############################################
-# AMS 691 Project 02
+##############################################################
 # Exponential Smoothing Function
 # 
 # By : Greeshma Balabhadra
-# SBUID 112750309 
 #
-# 
+# https://en.wikipedia.org/wiki/Exponential_smoothing
 #
-##############################################
+##############################################################
 
 import pandas as pd
 import numpy as np
